@@ -1,2 +1,1 @@
-# tuto-repo
-Modify file
+git clone --bare tuto-repo turo-repo.git
